@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mubark Oluwadamilare Adeniyi
-- 👀 Aspiring Cloud Computing Engineer 
+- 👀 Aspiring DevOps Engineer 
 - 🌱 Currently working my way through Ansible, Nexus, Docker, K8ts and Terraform
 - Always interested to learn about new stuff
 - 💞️ I’m looking to collaborate on any new or startup 
